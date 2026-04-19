@@ -16,11 +16,11 @@ This artifact was first created in CS320 about a year ago. The original code was
 [View Enhancement Three on Github](https://github.com/kylan-konopaski-snhu/kylan-konopaski-snhu.github.io/tree/main/enhancement-three)
 
 ## Enhancement Narratives
-[Enhancement One - Software Design](enhancement-one.md)
+[Enhancement One - Software Design >>](enhancement-one.md)
 
-[Enhancement Two - Algorithms and Data Structures](enhancement-two.md)
+[Enhancement Two - Algorithms and Data Structures >>](enhancement-two.md)
 
-[Enhancement Three - Databases](enhancement-three.md)
+[Enhancement Three - Databases >>](enhancement-three.md)
 
 ---
 [<< Back to Homepage](README.md)
