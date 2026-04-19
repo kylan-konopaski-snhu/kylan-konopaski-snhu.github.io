@@ -6,14 +6,14 @@ This artifact was first created in CS320 about a year ago. The original code was
 ---
 
 ## Original Code
-[View Original Project](https://github.com/kylan-konopaski-snhu/kylan-konopaski-snhu.github.io/tree/main/original)
+[View Original Project on Github](https://github.com/kylan-konopaski-snhu/kylan-konopaski-snhu.github.io/tree/main/original)
 
 ## Enhanced Code
-[View Enhancement One](enhancement-one/)
+[View Enhancement One on Github](enhancement-one/)
 
-[View Enhancement Two](enhancement-two/)
+[View Enhancement Two on Github](enhancement-two/)
 
-[View Enhancement Three](enhancement-three/)
+[View Enhancement Three on Github](enhancement-three/)
 
 ## Enhancement Narratives
 [Enhancement One - Software Design](enhancement-one.md)
