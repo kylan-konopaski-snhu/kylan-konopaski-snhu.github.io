@@ -6,14 +6,14 @@ This artifact was first created in CS320 about a year ago. The original code was
 ---
 
 ## Original Code
-[View Original Project on Github](https://github.com/kylan-konopaski-snhu/kylan-konopaski-snhu.github.io/tree/main/original)
+[View Original Project on Github 🔗](https://github.com/kylan-konopaski-snhu/kylan-konopaski-snhu.github.io/tree/main/original)
 
 ## Enhanced Code
-[View Enhancement One on Github](https://github.com/kylan-konopaski-snhu/kylan-konopaski-snhu.github.io/tree/main/enhancement-one)
+[View Enhancement One on Github 🔗](https://github.com/kylan-konopaski-snhu/kylan-konopaski-snhu.github.io/tree/main/enhancement-one)
 
-[View Enhancement Two on Github](https://github.com/kylan-konopaski-snhu/kylan-konopaski-snhu.github.io/tree/main/enhancement-two)
+[View Enhancement Two on Github 🔗](https://github.com/kylan-konopaski-snhu/kylan-konopaski-snhu.github.io/tree/main/enhancement-two)
 
-[View Enhancement Three on Github](https://github.com/kylan-konopaski-snhu/kylan-konopaski-snhu.github.io/tree/main/enhancement-three)
+[View Enhancement Three on Github 🔗](https://github.com/kylan-konopaski-snhu/kylan-konopaski-snhu.github.io/tree/main/enhancement-three)
 
 ## Enhancement Narratives
 [Enhancement One - Software Design >>](enhancement-one.md)
