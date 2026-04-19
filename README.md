@@ -6,6 +6,13 @@ This portfolio demonstrates the culmination of my growth in software development
 
 ---
 
+## Portfolio Navigation
+[Code Review Video >>](code-review.md)
+
+[Contact Management System Artifact and Enhancements >>](artifact.md)
+
+---
+
 ## Professional Self-Assessment
 Throughout my Computer Science program, I have developed a very strong foundation in software development, system design, and overall problem solving. After completing a large variety of different coursework, I have been able to learn a lot and really refine my technical abilities and my approach to building more practical, real-world applications. This portfolio reflects my growth from school projects with basic functionality to designing more structured, scalable, and maintainable systems that feel more purposeful and polished.
 
@@ -23,9 +30,4 @@ Security has also become an important part of my approach to software developmen
 
 The artifacts included in this portfolio all collectively demonstrate my growth across software design, algorithms, and databases. Rather than presenting unrelated projects, I chose to enhance a single artifact for each of these categories because in modern software development you typically have to utilize all of these skills for every application. This approach highlights my ability to iteratively improve a system, apply new concepts, and evaluate my design decisions over time. Each enhancement builds upon the previous one, which results in a more professional and complete solution. Overall, this portfolio not only enhances the technical skills that I have developed, but also my ability to learn and adapt as a developer and my readiness to contribute to real-world software projects.
 
----
 
-## Portfolio Navigation
-[Code Review Video >>](code-review.md)
-
-[Contact Management System Artifact and Enhancements >>](artifact.md)
