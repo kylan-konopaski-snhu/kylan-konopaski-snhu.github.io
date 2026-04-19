@@ -6,7 +6,7 @@ This artifact was first created in CS320 about a year ago. The original code was
 ---
 
 ## Original Code
-[View Original Project](original/)
+[View Original Project](https://github.com/kylan-konopaski-snhu/kylan-konopaski-snhu.github.io/tree/main/original)
 
 ## Enhanced Code
 [View Enhancement One](enhancement-one/)
