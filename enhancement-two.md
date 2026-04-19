@@ -9,6 +9,6 @@ This process of enhancing and modifying my artifact to utilize more strong algor
 
 ---
 
-[< Back to Artifact](artifact.md)
+[<< Back to Artifact](artifact.md)
 
 [<< Back to Homepage](README.md)
