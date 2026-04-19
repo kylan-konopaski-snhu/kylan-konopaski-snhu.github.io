@@ -1,0 +1,106 @@
+/*
+ * Author: Kylan Konopaski
+ * Version: 2.0
+ * Date updated: 3/22/2026
+ */
+public class Contact {
+	
+	// Constants for validation
+    public static final int MAX_FIRST_NAME_LENGTH = 10;
+    public static final int MAX_LAST_NAME_LENGTH = 10;
+    public static final int PHONE_LENGTH = 10;
+    public static final int MAX_ADDRESS_LENGTH = 30;
+    
+    private final int contactId;
+    private String firstName;
+    private String lastName;
+    private String phone;
+    private String address;
+    
+    // auto-assigned ID
+    private static int idCounter = 1;
+
+    /*
+     * Constructor
+     */
+    public Contact(String firstName, String lastName, String phone, String address) {
+        
+    	// Auto-generate ID 
+    	this.contactId = idCounter++;
+    	
+        setFirstName(firstName);
+        setLastName(lastName);
+        setPhone(phone);
+        setAddress(address);
+    }
+
+    /*
+     * Validation Methods
+     */
+    public static void validateFirstName(String firstName) {
+    	if (firstName == null || firstName.length() > MAX_FIRST_NAME_LENGTH) {
+    		throw new IllegalArgumentException("First name must be non-null and <= " + MAX_FIRST_NAME_LENGTH + " characters.");
+    	}
+    }
+
+    public static void validateLastName(String lastName) {
+    	if (lastName == null || lastName.length() > MAX_LAST_NAME_LENGTH) {
+    		throw new IllegalArgumentException("Last name must be non-null and <= " + MAX_LAST_NAME_LENGTH + " characters.");
+    	}
+    }
+    
+    public static void validatePhone(String phone) {
+    	if (phone == null || phone.length() != PHONE_LENGTH || !phone.matches("\\d+")) {
+    		throw new IllegalArgumentException("Phone must be exactly " + PHONE_LENGTH + " digits.");
+    	}
+    }
+
+    public static void validateAddress(String address) {
+    	if (address == null || address.length() > MAX_ADDRESS_LENGTH) {
+    		throw new IllegalArgumentException("Address must be non-null and <= " + MAX_ADDRESS_LENGTH + " characters.");
+    	}
+    }
+    
+    /*
+     * Accessors
+     */
+    public int getContactId() {
+        return contactId;
+    }
+    
+    public String getFirstName() {
+        return firstName;
+    }
+    
+    public String getLastName() {
+        return lastName;
+    }
+    
+    public String getPhone() {
+        return phone;
+    }
+    
+    public String getAddress() {
+        return address;
+    }
+    
+    /*
+     * Mutators
+     */
+    public void setFirstName(String firstName) {
+    	validateFirstName(firstName);
+    	this.firstName = firstName;
+    }
+    public void setLastName(String lastName) {
+    	validateLastName(lastName);
+    	this.lastName = lastName;
+    }
+    public void setPhone(String phone) {
+    	validatePhone(phone);
+    	this.phone = phone;
+    }
+    public void setAddress(String address) {
+    	validateAddress(address);
+    	this.address = address;
+    }
+}
