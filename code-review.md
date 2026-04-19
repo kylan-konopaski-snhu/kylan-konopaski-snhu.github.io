@@ -6,4 +6,4 @@ This video provides an overview of the original contact management system I crea
 [![Watch Code Review on YouTube](code-review-thumbnail.png)](https://youtu.be/iSZqZ_9u6_U)
 
 ---
-[Back to Homepage](README.md)
+[<< Back to Homepage](README.md)
