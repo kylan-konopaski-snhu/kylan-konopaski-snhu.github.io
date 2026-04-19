@@ -10,6 +10,6 @@ Throughout the process of enhancing this artifact, I learned the importance of d
 
 ---
 
-[< Back to Artifact](artifact.md)
+[<< Back to Artifact](artifact.md)
 
 [<< Back to Homepage](README.md)
