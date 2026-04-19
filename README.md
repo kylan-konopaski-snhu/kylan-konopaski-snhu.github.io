@@ -26,6 +26,6 @@ The artifacts included in this portfolio all collectively demonstrate my growth 
 ---
 
 ## Portfolio Navigation
-[Code Review Video](code-review.md)
+[Code Review Video >>](code-review.md)
 
-[Contact Management System Artifact and Enhancements](artifact.md)
+[Contact Management System Artifact and Enhancements >>](artifact.md)
